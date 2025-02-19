@@ -1,4 +1,5 @@
 import json
+import os
 from flask import Flask, request, jsonify
 import firebase_admin
 from firebase_admin import credentials, firestore
@@ -6,10 +7,15 @@ from firebase_admin import credentials, firestore
 # Inicializar la aplicación Flask
 app = Flask(__name__)
 
-# Conectar con Firebase usando la clave JSON
-cred = credentials.Certificate("firebase_key.json")  # Asegúrate de que el archivo exista y se llame así
-firebase_admin.initialize_app(cred)
-db = firestore.client()
+# Leer la clave de Firebase desde las variables de entorno en Render
+firebase_key = os.getenv("FIREBASE_KEY")
+
+if firebase_key:
+    cred = credentials.Certificate(json.loads(firebase_key))  # Convertir string JSON a diccionario
+    firebase_admin.initialize_app(cred)
+    db = firestore.client()
+else:
+    raise ValueError("FIREBASE_KEY no está configurada en las variables de entorno.")
 
 # Leer la lista de alumnos desde el archivo JSON
 with open("alumnos_corregidos.json", "r", encoding="utf-8") as file:
