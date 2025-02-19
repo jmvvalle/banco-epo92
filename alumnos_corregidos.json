@@ -1,0 +1,2655 @@
+[
+    {
+        "usuario": "EPO92MG3I01",
+        "nombre": "ACOSTA GARCIA KAREN WENDY",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "bear1"
+    },
+    {
+        "usuario": "EPO92MG3I02",
+        "nombre": "AGUILAR GALINDO MICHAEL NATANAEL",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "ant2"
+    },
+    {
+        "usuario": "EPO92MG3I03",
+        "nombre": "ALDAMA MONJARAS ASHLY",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "dog3"
+    },
+    {
+        "usuario": "EPO92MG3I04",
+        "nombre": "ALVARADO MENDOZA JHOANA",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "ant4"
+    },
+    {
+        "usuario": "EPO92MG3I05",
+        "nombre": "CONSUELO LEDESMA ANA GALILEA",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "lion5"
+    },
+    {
+        "usuario": "EPO92MG3I06",
+        "nombre": "ESPINOZA LUIS AZUL AYLIN",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "bird6"
+    },
+    {
+        "usuario": "EPO92MG3I07",
+        "nombre": "ESQUIVEL RODRIGUEZ ALIN MICHELLE",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "bear7"
+    },
+    {
+        "usuario": "EPO92MG3I08",
+        "nombre": "FUENTES HERNANDEZ LILIANA MIRELY",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "cat8"
+    },
+    {
+        "usuario": "EPO92MG3I09",
+        "nombre": "GARCIA LOPEZ DIEGO IMANOL",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "cow9"
+    },
+    {
+        "usuario": "EPO92MG3I10",
+        "nombre": "GATICA GALINDO BRANDON ISAI",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "fish10"
+    },
+    {
+        "usuario": "EPO92MG3I11",
+        "nombre": "GONZALEZ RODRIGUEZ AMILY ALEXANDRA",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "blue11"
+    },
+    {
+        "usuario": "EPO92MG3I12",
+        "nombre": "HERNANDEZ GONZALEZ RENATA",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "bird12"
+    },
+    {
+        "usuario": "EPO92MG3I13",
+        "nombre": "HERNANDEZ HERRERA CESAR DAVID",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "blue13"
+    },
+    {
+        "usuario": "EPO92MG3I14",
+        "nombre": "HUERTA ROMAY LUIS FERNANDO",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "ant14"
+    },
+    {
+        "usuario": "EPO92MG3I15",
+        "nombre": "JIMENEZ GUADALUPE LOREA",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "red15"
+    },
+    {
+        "usuario": "EPO92MG3I16",
+        "nombre": "JIMENEZ ISLAS SAUL",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "cat16"
+    },
+    {
+        "usuario": "EPO92MG3I17",
+        "nombre": "LEDEZMA PALMA HIRAM ISAI",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "cow17"
+    },
+    {
+        "usuario": "EPO92MG3I18",
+        "nombre": "LOPEZ BOYSO MINA MILLARAY",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "lion18"
+    },
+    {
+        "usuario": "EPO92MG3I19",
+        "nombre": "LOPEZ DAMIAN ESTEBAN ALEXANDER",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "cat19"
+    },
+    {
+        "usuario": "EPO92MG3I20",
+        "nombre": "LUGO PEREZ ESTEFANI",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "ant20"
+    },
+    {
+        "usuario": "EPO92MG3I21",
+        "nombre": "MALDONADO BAÑALES JACQUELINE",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "blue21"
+    },
+    {
+        "usuario": "EPO92MG3I22",
+        "nombre": "MARQUEZ REYES ITZEL",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "ant22"
+    },
+    {
+        "usuario": "EPO92MG3I23",
+        "nombre": "MARRUFO AVICENA JENNIFER AYLIN",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "dog23"
+    },
+    {
+        "usuario": "EPO92MG3I24",
+        "nombre": "MARTINEZ RESENDIZ ABRAHAM EMANUEL",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "fish24"
+    },
+    {
+        "usuario": "EPO92MG3I25",
+        "nombre": "MARTINEZ SANCHEZ JESSICA",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "blue25"
+    },
+    {
+        "usuario": "EPO92MG3I26",
+        "nombre": "MENDOZA LOPEZ KARLA SOFIA",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "dog26"
+    },
+    {
+        "usuario": "EPO92MG3I27",
+        "nombre": "MOLINA MURILLO JOSE ALFREDO",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "fish27"
+    },
+    {
+        "usuario": "EPO92MG3I28",
+        "nombre": "MONTAÑEZ GONZALEZ CHRISTIAN DAEL",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "lion28"
+    },
+    {
+        "usuario": "EPO92MG3I29",
+        "nombre": "MORALES GARCIA ANGELES NALLELY",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "bear29"
+    },
+    {
+        "usuario": "EPO92MG3I30",
+        "nombre": "MOSSO MOSSO KEVIN",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "blue30"
+    },
+    {
+        "usuario": "EPO92MG3I31",
+        "nombre": "NAVA MORALES ESTEFANI JOSELIN",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "ant31"
+    },
+    {
+        "usuario": "EPO92MG3I32",
+        "nombre": "ORTEGA VILLANUEVA MONSERRAT",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "cat32"
+    },
+    {
+        "usuario": "EPO92MG3I33",
+        "nombre": "PANTOJA VELAZQUEZ ERICK ZAID",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "dog33"
+    },
+    {
+        "usuario": "EPO92MG3I34",
+        "nombre": "PEDRAZA GARCIA DONNOBAN JAEL",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "lion34"
+    },
+    {
+        "usuario": "EPO92MG3I35",
+        "nombre": "PEREZ BARAJAS KEYRA VALENTINA",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "ant35"
+    },
+    {
+        "usuario": "EPO92MG3I36",
+        "nombre": "REYES DEL VALLE JUAN CARLOS",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "red36"
+    },
+    {
+        "usuario": "EPO92MG3I37",
+        "nombre": "RODRIGUEZ REAL LIZETH",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "blue37"
+    },
+    {
+        "usuario": "EPO92MG3I38",
+        "nombre": "RODRIGUEZ RODRIGUEZ CARLOS DANIEL",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "red38"
+    },
+    {
+        "usuario": "EPO92MG3I39",
+        "nombre": "SANTES MENDOZA EVELYN",
+        "turno": "MATUTINO",
+        "grupo": "3°I",
+        "clave": "blue39"
+    },
+    {
+        "usuario": "EPO92MG3II40",
+        "nombre": "ANTONIO MARTINEZ PABLO ABDIEL",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "fish40"
+    },
+    {
+        "usuario": "EPO92MG3II41",
+        "nombre": "ANGELES HOYOS LUIS FERNANDO",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "fish41"
+    },
+    {
+        "usuario": "EPO92MG3II42",
+        "nombre": "AREVALO OLMOS ZULEYKA EVI",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "cow42"
+    },
+    {
+        "usuario": "EPO92MG3II43",
+        "nombre": "AVILA MONROY CESIA YAMIN",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "dog43"
+    },
+    {
+        "usuario": "EPO92MG3II44",
+        "nombre": "BALLESTEROS ESTEVEZ GAEL",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "fish44"
+    },
+    {
+        "usuario": "EPO92MG3II45",
+        "nombre": "BARRERA ZAMUDIO LUIS ANGEL",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "cow45"
+    },
+    {
+        "usuario": "EPO92MG3II46",
+        "nombre": "BLANCO RIVERA JENNIFER MAIREM",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "dog46"
+    },
+    {
+        "usuario": "EPO92MG3II47",
+        "nombre": "CABRERA PERALTA ESBEYDI",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "red47"
+    },
+    {
+        "usuario": "EPO92MG3II48",
+        "nombre": "CAMPOS RODRIGUEZ BRANDON OSIEL",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "cat48"
+    },
+    {
+        "usuario": "EPO92MG3II49",
+        "nombre": "CARDENAS BECERRIL MADELEIN MICHELL",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "red49"
+    },
+    {
+        "usuario": "EPO92MG3II50",
+        "nombre": "CORTES MEDRANO ARMANDO",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "bear50"
+    },
+    {
+        "usuario": "EPO92MG3II51",
+        "nombre": "CRUZ GOMEZ ALONDRA LINET",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "bird51"
+    },
+    {
+        "usuario": "EPO92MG3II52",
+        "nombre": "CRUZ MARIN ALICIA VALERIA",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "red52"
+    },
+    {
+        "usuario": "EPO92MG3II53",
+        "nombre": "ESPAÑA SALDIVAR LAURA EDITH",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "bear53"
+    },
+    {
+        "usuario": "EPO92MG3II54",
+        "nombre": "ESPINO PRADO CELESTE MARILEISY",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "blue54"
+    },
+    {
+        "usuario": "EPO92MG3II55",
+        "nombre": "FLORES LOZA AMELIA VANESSA",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "lion55"
+    },
+    {
+        "usuario": "EPO92MG3II56",
+        "nombre": "GALVAN QUIROZ JOANI DANAE",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "lion56"
+    },
+    {
+        "usuario": "EPO92MG3II57",
+        "nombre": "HERRERA VALENCIA BRAULIO YAEL",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "blue57"
+    },
+    {
+        "usuario": "EPO92MG3II58",
+        "nombre": "JIMENEZ PAREDES HANNA ITZEL",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "ant58"
+    },
+    {
+        "usuario": "EPO92MG3II59",
+        "nombre": "LEDESMA CARMONA MARIO",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "cow59"
+    },
+    {
+        "usuario": "EPO92MG3II60",
+        "nombre": "LOPEZ DIAZ CINTHIA SARAI",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "red60"
+    },
+    {
+        "usuario": "EPO92MG3II61",
+        "nombre": "LOPEZ SALCEDO CAROLINA",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "fish61"
+    },
+    {
+        "usuario": "EPO92MG3II62",
+        "nombre": "LUNA TELLEZ KARLAZOE ALEXANDRA",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "blue62"
+    },
+    {
+        "usuario": "EPO92MG3II63",
+        "nombre": "MARTINEZ GUZMAN MARISOL",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "cat63"
+    },
+    {
+        "usuario": "EPO92MG3II64",
+        "nombre": "MARTINEZ JUAREZ MAURA GABRIELA",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "ant64"
+    },
+    {
+        "usuario": "EPO92MG3II65",
+        "nombre": "MARTINEZ SOTO ANGEL ABEL",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "bird65"
+    },
+    {
+        "usuario": "EPO92MG3II66",
+        "nombre": "MENDOZA SANCHEZ JATZIRI",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "red66"
+    },
+    {
+        "usuario": "EPO92MG3II67",
+        "nombre": "NORIEGA PONCE ANDRE NAOMI",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "lion67"
+    },
+    {
+        "usuario": "EPO92MG3II68",
+        "nombre": "OCEGUEDA PINEDA ALDO",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "ant68"
+    },
+    {
+        "usuario": "EPO92MG3II69",
+        "nombre": "OLIVOS REYES SOFIA MADAY",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "blue69"
+    },
+    {
+        "usuario": "EPO92MG3II70",
+        "nombre": "ONTIVEROS SALMORAN ALLISON",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "cow70"
+    },
+    {
+        "usuario": "EPO92MG3II71",
+        "nombre": "ORTA HERRERA GERARDO",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "ant71"
+    },
+    {
+        "usuario": "EPO92MG3II72",
+        "nombre": "ORTA PEREZ DENISSE MONSERRAT",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "blue72"
+    },
+    {
+        "usuario": "EPO92MG3II73",
+        "nombre": "PEREZ JURADO ANGELICA SARAI",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "blue73"
+    },
+    {
+        "usuario": "EPO92MG3II74",
+        "nombre": "RAMIREZ MARTINEZ TANIA YANELI",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "cow74"
+    },
+    {
+        "usuario": "EPO92MG3II75",
+        "nombre": "RAMIREZ SAENZ DIVENHI ITZEL",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "red75"
+    },
+    {
+        "usuario": "EPO92MG3II76",
+        "nombre": "RIOS CASTAÑEDA GIOVANNI",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "blue76"
+    },
+    {
+        "usuario": "EPO92MG3II77",
+        "nombre": "RIZO SEGURA IVAN",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "lion77"
+    },
+    {
+        "usuario": "EPO92MG3II78",
+        "nombre": "ROCHA RAMIREZ ABRIL",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "bird78"
+    },
+    {
+        "usuario": "EPO92MG3II79",
+        "nombre": "RODRIGUEZ RUIZ JIREH HIDEKEL",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "lion79"
+    },
+    {
+        "usuario": "EPO92MG3II80",
+        "nombre": "SEGURA GONZALEZ CAMILA YAMILET",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "dog80"
+    },
+    {
+        "usuario": "EPO92MG3II81",
+        "nombre": "TORRES ALTAMIRANO MIGUEL ANGEL",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "dog81"
+    },
+    {
+        "usuario": "EPO92MG3II82",
+        "nombre": "VAZQUEZ LOPEZ BRENDA ARACELY",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "dog82"
+    },
+    {
+        "usuario": "EPO92MG3II83",
+        "nombre": "VAZQUEZ VELAZQUEZ JUAN MANUEL",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "red83"
+    },
+    {
+        "usuario": "EPO92MG3II84",
+        "nombre": "VELAZQUEZ ISLAS CARINA FABIOLA",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "bird84"
+    },
+    {
+        "usuario": "EPO92MG3II85",
+        "nombre": "VIURQUEZ RIZO AMY SOFIA",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "fish85"
+    },
+    {
+        "usuario": "EPO92MG3II86",
+        "nombre": "VIZCAYA REYES OWEN",
+        "turno": "MATUTINO",
+        "grupo": "3°II",
+        "clave": "lion86"
+    },
+    {
+        "usuario": "EPO92MG3III87",
+        "nombre": "ALONSO TRINIDAD OLIVER GEOVANI",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "bear87"
+    },
+    {
+        "usuario": "EPO92MG3III88",
+        "nombre": "ALVARADO HERNANDEZ XIMENA",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "cat88"
+    },
+    {
+        "usuario": "EPO92MG3III89",
+        "nombre": "ARIZMENDI OSORIO DEVIN MATTHIEU",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "cat89"
+    },
+    {
+        "usuario": "EPO92MG3III90",
+        "nombre": "BLANCO VAZQUEZ UZIEL",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "red90"
+    },
+    {
+        "usuario": "EPO92MG3III91",
+        "nombre": "BRAVO PEREZ JUAN CARLOS",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "blue91"
+    },
+    {
+        "usuario": "EPO92MG3III92",
+        "nombre": "CABRERA SOSA MARIA FERNANDA",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "blue92"
+    },
+    {
+        "usuario": "EPO92MG3III93",
+        "nombre": "CALDERON ESPINOZA URIEL",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "bear93"
+    },
+    {
+        "usuario": "EPO92MG3III94",
+        "nombre": "COLIN MENDOZA BRANDON DANIEL",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "bird94"
+    },
+    {
+        "usuario": "EPO92MG3III95",
+        "nombre": "CRUZ MENDOZA DANNA VALERIA",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "cat95"
+    },
+    {
+        "usuario": "EPO92MG3III96",
+        "nombre": "DE JESUS CANSECO MELANY ZAIDE",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "red96"
+    },
+    {
+        "usuario": "EPO92MG3III97",
+        "nombre": "FLORES AYALA ZULEYMA JOSELIN",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "cat97"
+    },
+    {
+        "usuario": "EPO92MG3III98",
+        "nombre": "FLORES MORALES CAMILA MONSERRAT",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "bird98"
+    },
+    {
+        "usuario": "EPO92MG3III99",
+        "nombre": "FLORES MORENO VALERIA ARACELI",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "dog99"
+    },
+    {
+        "usuario": "EPO92MG3III100",
+        "nombre": "GARCIA RAMIREZ BRENDA MONSERRAT",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "fish100"
+    },
+    {
+        "usuario": "EPO92MG3III101",
+        "nombre": "GARCIA SANCHEZ VANESSA",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "bear101"
+    },
+    {
+        "usuario": "EPO92MG3III102",
+        "nombre": "GARFIAS RODRIGUEZ MELANYE DARA",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "cow102"
+    },
+    {
+        "usuario": "EPO92MG3III103",
+        "nombre": "GUERRERO GONZALEZ YOSELIN",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "red103"
+    },
+    {
+        "usuario": "EPO92MG3III104",
+        "nombre": "GUTIERREZ JAIMES JUAN JOSE",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "blue104"
+    },
+    {
+        "usuario": "EPO92MG3III105",
+        "nombre": "GUTIERREZ PIMENTEL ANEL PAOLA",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "bird105"
+    },
+    {
+        "usuario": "EPO92MG3III106",
+        "nombre": "HERNANDEZ CASTILLO CRISTOFER",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "cow106"
+    },
+    {
+        "usuario": "EPO92MG3III107",
+        "nombre": "HERNANDEZ CRUZ KEIRA AMERICA",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "bird107"
+    },
+    {
+        "usuario": "EPO92MG3III108",
+        "nombre": "HERNANDEZ HERNANDEZ XIMENA NOEMI",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "fish108"
+    },
+    {
+        "usuario": "EPO92MG3III109",
+        "nombre": "ISLAS VALDEZ AMAIRANI",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "bear109"
+    },
+    {
+        "usuario": "EPO92MG3III110",
+        "nombre": "LOPEZ MORENO EDWIN DAVID",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "lion110"
+    },
+    {
+        "usuario": "EPO92MG3III111",
+        "nombre": "LOPEZ PEÑA BRIZAHET",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "bird111"
+    },
+    {
+        "usuario": "EPO92MG3III112",
+        "nombre": "MARTINEZ MAÑON MELANY ZOE",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "cat112"
+    },
+    {
+        "usuario": "EPO92MG3III113",
+        "nombre": "MENDOZA JIMENEZ JHATZIRI DALI",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "dog113"
+    },
+    {
+        "usuario": "EPO92MG3III114",
+        "nombre": "MONJARAZ CABRERA JENIFER VANESA",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "dog114"
+    },
+    {
+        "usuario": "EPO92MG3III115",
+        "nombre": "MORALES NAVARRO CESAR DEYVID",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "blue115"
+    },
+    {
+        "usuario": "EPO92MG3III116",
+        "nombre": "OLGUIN NAVARRETE VALERIA SOFIA",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "red116"
+    },
+    {
+        "usuario": "EPO92MG3III117",
+        "nombre": "PALACIOS ARCIGA ABRIL",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "cow117"
+    },
+    {
+        "usuario": "EPO92MG3III118",
+        "nombre": "PEREZ PARRA ANGEL AARON",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "cat118"
+    },
+    {
+        "usuario": "EPO92MG3III119",
+        "nombre": "RAMIREZ ALVAREZ PERLA ANDREA",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "cat119"
+    },
+    {
+        "usuario": "EPO92MG3III120",
+        "nombre": "RAMIREZ LOPEZ MAXIN ALIN",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "cat120"
+    },
+    {
+        "usuario": "EPO92MG3III121",
+        "nombre": "RIVERA HERNANDEZ CARLOS EDUARDO",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "bird121"
+    },
+    {
+        "usuario": "EPO92MG3III122",
+        "nombre": "RIVERA VARGAS JOSSELIN ITZEL",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "fish122"
+    },
+    {
+        "usuario": "EPO92MG3III123",
+        "nombre": "ROCHA LOBATO ESMERALDA ESTEFANIA",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "cat123"
+    },
+    {
+        "usuario": "EPO92MG3III124",
+        "nombre": "RODRIGUEZ HERNANDEZ PAOLA YUNUEN",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "ant124"
+    },
+    {
+        "usuario": "EPO92MG3III125",
+        "nombre": "ROJAS AQUINO VALENTINA",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "bird125"
+    },
+    {
+        "usuario": "EPO92MG3III126",
+        "nombre": "ROSALES PALOMINO CHRISTIAN",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "dog126"
+    },
+    {
+        "usuario": "EPO92MG3III127",
+        "nombre": "SALGADO GARCIA PAULINA",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "dog127"
+    },
+    {
+        "usuario": "EPO92MG3III128",
+        "nombre": "SOLIS DOMINGUEZ CESAR FERNANDO",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "ant128"
+    },
+    {
+        "usuario": "EPO92MG3III129",
+        "nombre": "SOLIS JIMENEZ ABRIL DANAE",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "bear129"
+    },
+    {
+        "usuario": "EPO92MG3III130",
+        "nombre": "TIRO CUANENEMI MONSERRATH",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "cow130"
+    },
+    {
+        "usuario": "EPO92MG3III131",
+        "nombre": "VAZQUEZ RODRIGUEZ MARCO YAEL",
+        "turno": "MATUTINO",
+        "grupo": "3°III",
+        "clave": "bear131"
+    },
+    {
+        "usuario": "EPO92MG3IV132",
+        "nombre": "ARAUJO RODRIGUEZ ARIADNA",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "ant132"
+    },
+    {
+        "usuario": "EPO92MG3IV133",
+        "nombre": "BARTOLO MERCADO ESMERALDA JIMENA",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "red133"
+    },
+    {
+        "usuario": "EPO92MG3IV134",
+        "nombre": "BELTRAN RENDON LIZET",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "bear134"
+    },
+    {
+        "usuario": "EPO92MG3IV135",
+        "nombre": "BLANCO REYES ESTEFANI GUADALUPE",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "blue135"
+    },
+    {
+        "usuario": "EPO92MG3IV136",
+        "nombre": "CARDEÑA VELASCO TADEO",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "dog136"
+    },
+    {
+        "usuario": "EPO92MG3IV137",
+        "nombre": "CHACON CASARRUBIAS JOSE ANGEL",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "lion137"
+    },
+    {
+        "usuario": "EPO92MG3IV138",
+        "nombre": "CHAGOYA PEÑA WENDY CRISTINA",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "blue138"
+    },
+    {
+        "usuario": "EPO92MG3IV139",
+        "nombre": "CHAVARRIA GUTIERREZ ANGEL ISRAEL",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "red139"
+    },
+    {
+        "usuario": "EPO92MG3IV140",
+        "nombre": "DE LA CRUZ CAMARGO SERGIO IVAN",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "blue140"
+    },
+    {
+        "usuario": "EPO92MG3IV141",
+        "nombre": "DIAZ MAURO YOSEF JOHAN",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "ant141"
+    },
+    {
+        "usuario": "EPO92MG3IV142",
+        "nombre": "FLORES TORRES JESUS ALEXIS",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "bird142"
+    },
+    {
+        "usuario": "EPO92MG3IV143",
+        "nombre": "GARCIA FERREIRA DANIEL",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "blue143"
+    },
+    {
+        "usuario": "EPO92MG3IV144",
+        "nombre": "GODINEZ GONZALEZ DORIAN VALENTIN",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "ant144"
+    },
+    {
+        "usuario": "EPO92MG3IV145",
+        "nombre": "GUERRERO CORTES MELANIE",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "bird145"
+    },
+    {
+        "usuario": "EPO92MG3IV146",
+        "nombre": "HERNANDEZ GARDUÑO MILDREDT ALINNE",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "fish146"
+    },
+    {
+        "usuario": "EPO92MG3IV147",
+        "nombre": "HERNANDEZ PERALES ABIGAIL XIMENA",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "cow147"
+    },
+    {
+        "usuario": "EPO92MG3IV148",
+        "nombre": "HILARIO CEBALLOS YOSELIN",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "lion148"
+    },
+    {
+        "usuario": "EPO92MG3IV149",
+        "nombre": "LAZARO REYES ANGEL ANTONIO",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "blue149"
+    },
+    {
+        "usuario": "EPO92MG3IV150",
+        "nombre": "LUNA GARCIA MAILY ELLERY",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "dog150"
+    },
+    {
+        "usuario": "EPO92MG3IV151",
+        "nombre": "MACIAS GARRIDO YEIMI PAULINA",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "dog151"
+    },
+    {
+        "usuario": "EPO92MG3IV152",
+        "nombre": "MARQUEZ HUERTA SANDRA KARINA",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "bear152"
+    },
+    {
+        "usuario": "EPO92MG3IV153",
+        "nombre": "MARTINEZ PEREZ ARELI NICOLE",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "bear153"
+    },
+    {
+        "usuario": "EPO92MG3IV154",
+        "nombre": "MARTINEZ ROJAS GUSTAVO RICARDO",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "bear154"
+    },
+    {
+        "usuario": "EPO92MG3IV155",
+        "nombre": "MORALES IXTLAMATI QUETZALLI",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "blue155"
+    },
+    {
+        "usuario": "EPO92MG3IV156",
+        "nombre": "NAVA MORALES CONSTANZA",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "lion156"
+    },
+    {
+        "usuario": "EPO92MG3IV157",
+        "nombre": "ORDOÑEZ ALDAY KEVIN PAUL",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "ant157"
+    },
+    {
+        "usuario": "EPO92MG3IV158",
+        "nombre": "ORDOÑEZ MUÑIS FELIPE",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "ant158"
+    },
+    {
+        "usuario": "EPO92MG3IV159",
+        "nombre": "PEREZ ANICETO ALLISON YOALI",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "cow159"
+    },
+    {
+        "usuario": "EPO92MG3IV160",
+        "nombre": "PIMENTEL MENDEZ ALAN",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "bear160"
+    },
+    {
+        "usuario": "EPO92MG3IV161",
+        "nombre": "PINEDA GONZALEZ BRENDA JAQUELINE",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "ant161"
+    },
+    {
+        "usuario": "EPO92MG3IV162",
+        "nombre": "PIZAÑA VILLA FATIMA ITZEL",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "lion162"
+    },
+    {
+        "usuario": "EPO92MG3IV163",
+        "nombre": "POPOCA ORTIZ MIRIAM",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "fish163"
+    },
+    {
+        "usuario": "EPO92MG3IV164",
+        "nombre": "PORTELA BECERRA ERICK",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "fish164"
+    },
+    {
+        "usuario": "EPO92MG3IV165",
+        "nombre": "RAMIREZ LEYVA JERALDIN",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "bird165"
+    },
+    {
+        "usuario": "EPO92MG3IV166",
+        "nombre": "RAMIREZ MURILLO RODRIGO",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "bird166"
+    },
+    {
+        "usuario": "EPO92MG3IV167",
+        "nombre": "RODRIGUEZ ALVARADO MELANY MICHEL",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "dog167"
+    },
+    {
+        "usuario": "EPO92MG3IV168",
+        "nombre": "RODRIGUEZ CAMACHO ZOE YOSELIN",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "blue168"
+    },
+    {
+        "usuario": "EPO92MG3IV169",
+        "nombre": "SANCHEZ GONZALEZ ALISON YISEL",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "blue169"
+    },
+    {
+        "usuario": "EPO92MG3IV170",
+        "nombre": "SIERRA HERNANDEZ AXEL ZOE",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "red170"
+    },
+    {
+        "usuario": "EPO92MG3IV171",
+        "nombre": "SOSA SANCHEZ YAMILETH",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "cow171"
+    },
+    {
+        "usuario": "EPO92MG3IV172",
+        "nombre": "TEQUIANES FELIX ANA GISELA",
+        "turno": "MATUTINO",
+        "grupo": "3°IV",
+        "clave": "cat172"
+    },
+    {
+        "usuario": "EPO92MG3V173",
+        "nombre": "ACOSTA RAMIREZ SERGIO",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "blue173"
+    },
+    {
+        "usuario": "EPO92MG3V174",
+        "nombre": "ALMARAZ CHAVEZ ANDREA MARELI",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "bird174"
+    },
+    {
+        "usuario": "EPO92MG3V175",
+        "nombre": "ALVAREZ MARRERO CARINA",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "bird175"
+    },
+    {
+        "usuario": "EPO92MG3V176",
+        "nombre": "BOTIS PERALTA AXEL YAEL",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "red176"
+    },
+    {
+        "usuario": "EPO92MG3V177",
+        "nombre": "BRIONES CAMPOS YULIANA",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "cat177"
+    },
+    {
+        "usuario": "EPO92MG3V178",
+        "nombre": "CARDENAS HERNANDEZ AMERICA JIRETH",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "dog178"
+    },
+    {
+        "usuario": "EPO92MG3V179",
+        "nombre": "ESPINOZA GRESS JOSE GEOVANI",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "dog179"
+    },
+    {
+        "usuario": "EPO92MG3V180",
+        "nombre": "FUENTES ARAUJO MARIA GUADALUPE",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "cow180"
+    },
+    {
+        "usuario": "EPO92MG3V181",
+        "nombre": "GARCIA ANTONIO CARLO RAFAEL",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "blue181"
+    },
+    {
+        "usuario": "EPO92MG3V182",
+        "nombre": "GARFIAS RODRIGUEZ BRENDA ALEIRAM",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "bear182"
+    },
+    {
+        "usuario": "EPO92MG3V183",
+        "nombre": "GOMEZ GARNICA DAFNE STEPHANYE",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "bear183"
+    },
+    {
+        "usuario": "EPO92MG3V184",
+        "nombre": "GONZALEZ OCAMPO LIZ ITZEL",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "lion184"
+    },
+    {
+        "usuario": "EPO92MG3V185",
+        "nombre": "HERNANDEZ REGULES ALDO YAEL",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "fish185"
+    },
+    {
+        "usuario": "EPO92MG3V186",
+        "nombre": "HUERTA AVELLANEDA GUADALUPE ESMERALDA",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "ant186"
+    },
+    {
+        "usuario": "EPO92MG3V187",
+        "nombre": "JIMENEZ CASTAÑEDA YUREM",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "lion187"
+    },
+    {
+        "usuario": "EPO92MG3V188",
+        "nombre": "LOPEZ VELASCO XOCHIQUETZAL",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "dog188"
+    },
+    {
+        "usuario": "EPO92MG3V189",
+        "nombre": "MARQUEZ MARQUEZ MARIAN JOSELYN",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "red189"
+    },
+    {
+        "usuario": "EPO92MG3V190",
+        "nombre": "MARTINEZ CHAVEZ JOSELIN RUBI",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "bird190"
+    },
+    {
+        "usuario": "EPO92MG3V191",
+        "nombre": "MARTINEZ GARCIA ANA KAREN",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "lion191"
+    },
+    {
+        "usuario": "EPO92MG3V192",
+        "nombre": "MARTINEZ HERNANDEZ YATZIRY",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "bird192"
+    },
+    {
+        "usuario": "EPO92MG3V193",
+        "nombre": "MENDOZA DIAZ JOSE MAURICIO",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "dog193"
+    },
+    {
+        "usuario": "EPO92MG3V194",
+        "nombre": "MENDOZA GARCIA DAFNE AZUL",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "bear194"
+    },
+    {
+        "usuario": "EPO92MG3V195",
+        "nombre": "MERIDA CRUZ ALLISON SCARLETTE",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "bear195"
+    },
+    {
+        "usuario": "EPO92MG3V196",
+        "nombre": "MOCTEZUMA PEREZ RICARDO",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "bear196"
+    },
+    {
+        "usuario": "EPO92MG3V197",
+        "nombre": "MONDRAGON TAPIA FERNANDA",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "cat197"
+    },
+    {
+        "usuario": "EPO92MG3V198",
+        "nombre": "MORALES AGUILAR ARANZA VIRIDIAN",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "blue198"
+    },
+    {
+        "usuario": "EPO92MG3V199",
+        "nombre": "MORENO ORTEGA ALIX MELANY",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "cow199"
+    },
+    {
+        "usuario": "EPO92MG3V200",
+        "nombre": "ORAN REYES KEVIN JOSHUA",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "blue200"
+    },
+    {
+        "usuario": "EPO92MG3V201",
+        "nombre": "PADILLA AVILA ANGEL KAROL",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "lion201"
+    },
+    {
+        "usuario": "EPO92MG3V202",
+        "nombre": "PEDROZA REGALADO JESSAMY ARELI",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "cow202"
+    },
+    {
+        "usuario": "EPO92MG3V203",
+        "nombre": "PEREZ HERNANDEZ TABATHA JAZMIN",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "cow203"
+    },
+    {
+        "usuario": "EPO92MG3V204",
+        "nombre": "PEREZ VILLASEÑOR JAQUELINE",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "red204"
+    },
+    {
+        "usuario": "EPO92MG3V205",
+        "nombre": "PLATA HERNANDEZ MARION JATZIRI",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "blue205"
+    },
+    {
+        "usuario": "EPO92MG3V206",
+        "nombre": "RODRIGUEZ JIMENEZ EZEQUIEL",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "cow206"
+    },
+    {
+        "usuario": "EPO92MG3V207",
+        "nombre": "SANCHEZ GARCIA MELISSA GUADALUPE",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "lion207"
+    },
+    {
+        "usuario": "EPO92MG3V208",
+        "nombre": "SANCHEZ RODRIGUEZ KATERINE VIANEY",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "red208"
+    },
+    {
+        "usuario": "EPO92MG3V209",
+        "nombre": "SUAREZ TORRES ALEXIA YANELLY",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "cat209"
+    },
+    {
+        "usuario": "EPO92MG3V210",
+        "nombre": "TAPIA GARCIA ANGEL GABRIEL",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "fish210"
+    },
+    {
+        "usuario": "EPO92MG3V211",
+        "nombre": "TREJO ROSAS BRAYAN VINCENT",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "fish211"
+    },
+    {
+        "usuario": "EPO92MG3V212",
+        "nombre": "TREJO TAPIA PAMELA MALILLANY",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "blue212"
+    },
+    {
+        "usuario": "EPO92MG3V213",
+        "nombre": "TUFIÑO CARCAÑO GAEL SANTIAGO",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "bird213"
+    },
+    {
+        "usuario": "EPO92MG3V214",
+        "nombre": "VAZQUEZ ALCANTARA MAYLIN",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "cow214"
+    },
+    {
+        "usuario": "EPO92MG3V215",
+        "nombre": "VIVEROS NAVARRO KATIA MARITZA",
+        "turno": "MATUTINO",
+        "grupo": "3°V",
+        "clave": "dog215"
+    },
+    {
+        "usuario": "EPO92MG3VI216",
+        "nombre": "ALONSO MONTIEL LUZ PAOLA",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "bear216"
+    },
+    {
+        "usuario": "EPO92MG3VI217",
+        "nombre": "ARGUETA VIDALES GAEL",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "lion217"
+    },
+    {
+        "usuario": "EPO92MG3VI218",
+        "nombre": "BARAJAS MATA XIMENA",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "bird218"
+    },
+    {
+        "usuario": "EPO92MG3VI219",
+        "nombre": "BERNAL VELAZQUEZ EDUARDO DAVID",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "dog219"
+    },
+    {
+        "usuario": "EPO92MG3VI220",
+        "nombre": "BORJA FACUNDO JOSE LEONARDO",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "blue220"
+    },
+    {
+        "usuario": "EPO92MG3VI221",
+        "nombre": "CANO ORTEGA HAZIEL",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "blue221"
+    },
+    {
+        "usuario": "EPO92MG3VI222",
+        "nombre": "CARREON HERNANDEZ JOSE DE JESUS",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "cow222"
+    },
+    {
+        "usuario": "EPO92MG3VI223",
+        "nombre": "CARRERA DIAZ EVELING AYLIN",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "lion223"
+    },
+    {
+        "usuario": "EPO92MG3VI224",
+        "nombre": "CRISTOBAL LIMAS DANA PAOLA",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "cow224"
+    },
+    {
+        "usuario": "EPO92MG3VI225",
+        "nombre": "CRUZ BAUTISTA ESTEBAN YAHIR",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "lion225"
+    },
+    {
+        "usuario": "EPO92MG3VI226",
+        "nombre": "DIAZ ARGUELLES PRISCILA ISABEL",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "dog226"
+    },
+    {
+        "usuario": "EPO92MG3VI227",
+        "nombre": "DOMINGUEZ LECUONA KAREN ELIZABETH",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "bear227"
+    },
+    {
+        "usuario": "EPO92MG3VI228",
+        "nombre": "ENRIQUEZ VELEZ ELIAS KALED",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "blue228"
+    },
+    {
+        "usuario": "EPO92MG3VI229",
+        "nombre": "ESQUIVEL ALVAREZ EVELYN SARAI",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "dog229"
+    },
+    {
+        "usuario": "EPO92MG3VI230",
+        "nombre": "FLORES LOPEZ GLORIA GUADALUPE",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "bear230"
+    },
+    {
+        "usuario": "EPO92MG3VI231",
+        "nombre": "GARCIA HERNANDEZ YAIR",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "bird231"
+    },
+    {
+        "usuario": "EPO92MG3VI232",
+        "nombre": "GARCIA VERDE SHYRLEY ALEJANDRA",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "fish232"
+    },
+    {
+        "usuario": "EPO92MG3VI233",
+        "nombre": "HERNANDEZ CORONA ANA WENDY",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "bird233"
+    },
+    {
+        "usuario": "EPO92MG3VI234",
+        "nombre": "HERNANDEZ NABOR DASHA AILANI",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "blue234"
+    },
+    {
+        "usuario": "EPO92MG3VI235",
+        "nombre": "JUAREZ BRIONES YOSELINNE",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "ant235"
+    },
+    {
+        "usuario": "EPO92MG3VI236",
+        "nombre": "LOPEZ CRUZ YOSEF DANIEL",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "fish236"
+    },
+    {
+        "usuario": "EPO92MG3VI237",
+        "nombre": "MALDONADO HERNANDEZ BELINDA",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "blue237"
+    },
+    {
+        "usuario": "EPO92MG3VI238",
+        "nombre": "MANJARREZ BARRERA CHRISTIAN ALY",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "fish238"
+    },
+    {
+        "usuario": "EPO92MG3VI239",
+        "nombre": "MARTINEZ MACEDA IXCHEL",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "bird239"
+    },
+    {
+        "usuario": "EPO92MG3VI240",
+        "nombre": "MONDRAGON LOPEZ ELIZABETH",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "bird240"
+    },
+    {
+        "usuario": "EPO92MG3VI241",
+        "nombre": "MORALES ESQUIVEL PAOLA",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "bear241"
+    },
+    {
+        "usuario": "EPO92MG3VI242",
+        "nombre": "ONTIVEROS SALMORAN MELANY",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "lion242"
+    },
+    {
+        "usuario": "EPO92MG3VI243",
+        "nombre": "ORDAZ MARCIAL ESMERALDA",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "cat243"
+    },
+    {
+        "usuario": "EPO92MG3VI244",
+        "nombre": "ORTEGA TIBURCIO BRITANY AMEYALI",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "red244"
+    },
+    {
+        "usuario": "EPO92MG3VI245",
+        "nombre": "PERALTA LOPEZ MARELYN JOSELYN",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "lion245"
+    },
+    {
+        "usuario": "EPO92MG3VI246",
+        "nombre": "PEREZ DE JESUS ERICK DAMIAN",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "blue246"
+    },
+    {
+        "usuario": "EPO92MG3VI247",
+        "nombre": "RAMIREZ SOLANO KARLA NATALIA",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "cow247"
+    },
+    {
+        "usuario": "EPO92MG3VI248",
+        "nombre": "RESENDIZ CRUZ MARIA JOSE",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "fish248"
+    },
+    {
+        "usuario": "EPO92MG3VI249",
+        "nombre": "RODRIGUEZ LOPEZ FELIPE",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "dog249"
+    },
+    {
+        "usuario": "EPO92MG3VI250",
+        "nombre": "ROJAS LOPEZ LEONARDO",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "bear250"
+    },
+    {
+        "usuario": "EPO92MG3VI251",
+        "nombre": "RUIZ ESPEJEL ALAN",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "bear251"
+    },
+    {
+        "usuario": "EPO92MG3VI252",
+        "nombre": "SANCHEZ GARCIA PAOLA LINETH",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "cow252"
+    },
+    {
+        "usuario": "EPO92MG3VI253",
+        "nombre": "SANCHEZ MEJIA ANGEL LESTAT",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "dog253"
+    },
+    {
+        "usuario": "EPO92MG3VI254",
+        "nombre": "SEGUNDO FLORES ELVIS MANUEL",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "blue254"
+    },
+    {
+        "usuario": "EPO92MG3VI255",
+        "nombre": "SIERRA MARTINEZ OSIRIS JAQUELINE",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "blue255"
+    },
+    {
+        "usuario": "EPO92MG3VI256",
+        "nombre": "VAZQUEZ ALCANTARA MARELY",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "cat256"
+    },
+    {
+        "usuario": "EPO92MG3VI257",
+        "nombre": "VELAZQUEZ ALVARADO NATALY",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "dog257"
+    },
+    {
+        "usuario": "EPO92MG3VI258",
+        "nombre": "VELAZQUEZ GUILLEN NANCY GUADALUPE",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "fish258"
+    },
+    {
+        "usuario": "EPO92MG3VI259",
+        "nombre": "VIELMA SANCHEZ NISSY MASSARY",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "cat259"
+    },
+    {
+        "usuario": "EPO92MG3VI260",
+        "nombre": "ZALAPA ROMAN AURORA LUCERO",
+        "turno": "MATUTINO",
+        "grupo": "3°VI",
+        "clave": "blue260"
+    },
+    {
+        "usuario": "EPO92VG3I261",
+        "nombre": "ALCANTARA TORRES CECILIA VALERIA",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "red261"
+    },
+    {
+        "usuario": "EPO92VG3I262",
+        "nombre": "ALMAZAN LOPEZ ERIK ADAIR",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "blue262"
+    },
+    {
+        "usuario": "EPO92VG3I263",
+        "nombre": "AVENDAÑO RODRIGUEZ JOSE IRVING",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "cat263"
+    },
+    {
+        "usuario": "EPO92VG3I264",
+        "nombre": "CORTINA PALOMO DIANA LISSETH",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "cat264"
+    },
+    {
+        "usuario": "EPO92VG3I265",
+        "nombre": "DEL CASTILLO BECERRIL JOB DAVID",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "blue265"
+    },
+    {
+        "usuario": "EPO92VG3I266",
+        "nombre": "GARIBAY MENDOZA ARLET",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "cat266"
+    },
+    {
+        "usuario": "EPO92VG3I267",
+        "nombre": "GUTIERREZ HERNÁNDEZ RICARDO",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "dog267"
+    },
+    {
+        "usuario": "EPO92VG3I268",
+        "nombre": "HERNANDEZ BELTRAN MARIA JUDITH",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "ant268"
+    },
+    {
+        "usuario": "EPO92VG3I269",
+        "nombre": "MALDONADO CRISTOBAL JOSE LUIS",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "lion269"
+    },
+    {
+        "usuario": "EPO92VG3I270",
+        "nombre": "MARTINEZ GONZALEZ AMELI MARELI",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "bird270"
+    },
+    {
+        "usuario": "EPO92VG3I271",
+        "nombre": "MENDOZA SALMORAN ANGELES",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "red271"
+    },
+    {
+        "usuario": "EPO92VG3I272",
+        "nombre": "NAVARRETE GUERRA ANAHIT",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "fish272"
+    },
+    {
+        "usuario": "EPO92VG3I273",
+        "nombre": "NUÑEZ ALMAZO JESUS",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "bird273"
+    },
+    {
+        "usuario": "EPO92VG3I274",
+        "nombre": "REYES BLANCAS ALEXANDER",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "cat274"
+    },
+    {
+        "usuario": "EPO92VG3I275",
+        "nombre": "REYES DIEGO ESTELA",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "dog275"
+    },
+    {
+        "usuario": "EPO92VG3I276",
+        "nombre": "REYES MIJANGOS HUGO YAEL",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "lion276"
+    },
+    {
+        "usuario": "EPO92VG3I277",
+        "nombre": "REYES MIRANDA YUREM",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "ant277"
+    },
+    {
+        "usuario": "EPO92VG3I278",
+        "nombre": "RODRIGUEZ CASTILLO KARINA",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "cow278"
+    },
+    {
+        "usuario": "EPO92VG3I279",
+        "nombre": "ROSALES CEDILLO LEONARDO",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "bird279"
+    },
+    {
+        "usuario": "EPO92VG3I280",
+        "nombre": "SAN VICENTE SILVA BRED",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "cat280"
+    },
+    {
+        "usuario": "EPO92VG3I281",
+        "nombre": "SOSA MONTES MARIANA",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "fish281"
+    },
+    {
+        "usuario": "EPO92VG3I282",
+        "nombre": "TEPOS GALLARDO BRANDON YAHIR",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "blue282"
+    },
+    {
+        "usuario": "EPO92VG3I283",
+        "nombre": "TIRADO VELAZQUEZ ANGEL MICHEL",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "ant283"
+    },
+    {
+        "usuario": "EPO92VG3I284",
+        "nombre": "VELASCO BAUTISTA ALONDRA MAGALI",
+        "turno": "VESPERTINO",
+        "grupo": "3°I",
+        "clave": "bear284"
+    },
+    {
+        "usuario": "EPO92VG3II285",
+        "nombre": "AGUILAR GONZALEZ CAMILA IDALI",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "cow285"
+    },
+    {
+        "usuario": "EPO92VG3II286",
+        "nombre": "ARANA JUAREZ MAYRA KYNERETH",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "blue286"
+    },
+    {
+        "usuario": "EPO92VG3II287",
+        "nombre": "BAUTISTA DIAZ CAROLAY YAMILETTE",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "bear287"
+    },
+    {
+        "usuario": "EPO92VG3II288",
+        "nombre": "BECERRA MEDINA CRISTIAN GIOVANNY",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "bear288"
+    },
+    {
+        "usuario": "EPO92VG3II289",
+        "nombre": "BONILLA ROJAS INGRID",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "fish289"
+    },
+    {
+        "usuario": "EPO92VG3II290",
+        "nombre": "BUSTAMANTE HERNANDEZ EVELYN ANDREA",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "ant290"
+    },
+    {
+        "usuario": "EPO92VG3II291",
+        "nombre": "CHAVARRIA GALINDO VALERIA ITZEL",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "fish291"
+    },
+    {
+        "usuario": "EPO92VG3II292",
+        "nombre": "CRUZ AGUDO DANNA PAOLA",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "bird292"
+    },
+    {
+        "usuario": "EPO92VG3II293",
+        "nombre": "DE MARCOS HERNANDEZ LORENA",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "bird293"
+    },
+    {
+        "usuario": "EPO92VG3II294",
+        "nombre": "GALICIA NUÑEZ ALONDRA ITZABEL",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "fish294"
+    },
+    {
+        "usuario": "EPO92VG3II295",
+        "nombre": "GARCIA HERNANDEZ ALAN ABDALLAN",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "bird295"
+    },
+    {
+        "usuario": "EPO92VG3II296",
+        "nombre": "HERNANDEZ MARTINEZ MARIBEL",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "cat296"
+    },
+    {
+        "usuario": "EPO92VG3II297",
+        "nombre": "JARAMILLO ORTEGA ENRIQUE",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "bird297"
+    },
+    {
+        "usuario": "EPO92VG3II298",
+        "nombre": "JIMENEZ HERNANDEZ JESSICA",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "bird298"
+    },
+    {
+        "usuario": "EPO92VG3II299",
+        "nombre": "JIMENEZ SALAZAR VALERIA ADALI",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "ant299"
+    },
+    {
+        "usuario": "EPO92VG3II300",
+        "nombre": "MARCOS FLORES AARON",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "bear300"
+    },
+    {
+        "usuario": "EPO92VG3II301",
+        "nombre": "MARGARITO VIVERO ANGEL",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "fish301"
+    },
+    {
+        "usuario": "EPO92VG3II302",
+        "nombre": "MARIN SECUNDINO BRENDA KARIME",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "lion302"
+    },
+    {
+        "usuario": "EPO92VG3II303",
+        "nombre": "MARTINEZ CASTAÑEDA ANA DALAY",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "lion303"
+    },
+    {
+        "usuario": "EPO92VG3II304",
+        "nombre": "MARTINEZ GUTIERREZ DANAE PAOLA",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "bear304"
+    },
+    {
+        "usuario": "EPO92VG3II305",
+        "nombre": "MIGUEL GUERRERO CRHISTOPHER",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "bird305"
+    },
+    {
+        "usuario": "EPO92VG3II306",
+        "nombre": "PINEDA TORRALVA ANGELY MAYTE",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "ant306"
+    },
+    {
+        "usuario": "EPO92VG3II307",
+        "nombre": "REGULES OLIVERA ASHLYN",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "cow307"
+    },
+    {
+        "usuario": "EPO92VG3II308",
+        "nombre": "RIVERA TOLENTINO DANNY ORLANDO",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "bear308"
+    },
+    {
+        "usuario": "EPO92VG3II309",
+        "nombre": "RODRIGUEZ PEREZ JAQUELINE",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "cat309"
+    },
+    {
+        "usuario": "EPO92VG3II310",
+        "nombre": "RODRIGUEZ SALGADO ANA LIZET",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "red310"
+    },
+    {
+        "usuario": "EPO92VG3II311",
+        "nombre": "SANCHEZ DE LUNA MOISES EDMUNDO",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "blue311"
+    },
+    {
+        "usuario": "EPO92VG3II312",
+        "nombre": "SANCHEZ MARTINEZ YANDERY YENEDYTH",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "ant312"
+    },
+    {
+        "usuario": "EPO92VG3II313",
+        "nombre": "SANCHEZ REYES KENNYA ALEXANDRA",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "ant313"
+    },
+    {
+        "usuario": "EPO92VG3II314",
+        "nombre": "SOSA MARTIN JESUS ALEXIS",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "ant314"
+    },
+    {
+        "usuario": "EPO92VG3II315",
+        "nombre": "TALAVERA ISLAS YAEL DALAY",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "dog315"
+    },
+    {
+        "usuario": "EPO92VG3II316",
+        "nombre": "TREJO GONZALEZ VALERIA ITZAMIN",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "dog316"
+    },
+    {
+        "usuario": "EPO92VG3II317",
+        "nombre": "URIBE CHAVEZ JOHAN EDUARDO",
+        "turno": "VESPERTINO",
+        "grupo": "3°II",
+        "clave": "dog317"
+    },
+    {
+        "usuario": "EPO92VG3III318",
+        "nombre": "AGUILAR HERNANDEZ DULCE JULIETA",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "red318"
+    },
+    {
+        "usuario": "EPO92VG3III319",
+        "nombre": "CAMACHO AYALA UZZIEL MIGUEL",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "bird319"
+    },
+    {
+        "usuario": "EPO92VG3III320",
+        "nombre": "CARRERA AMAYA OSCAR ADRIAN",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "cow320"
+    },
+    {
+        "usuario": "EPO92VG3III321",
+        "nombre": "CASTRO ESPINOZA ARMANDO",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "dog321"
+    },
+    {
+        "usuario": "EPO92VG3III322",
+        "nombre": "CERON PEÑA LUIS FABRICIO",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "fish322"
+    },
+    {
+        "usuario": "EPO92VG3III323",
+        "nombre": "DEL RAZO MARTINEZ FERNANDA",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "bird323"
+    },
+    {
+        "usuario": "EPO92VG3III324",
+        "nombre": "GARZON DOMINGUEZ SOFIA NAHOMI",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "blue324"
+    },
+    {
+        "usuario": "EPO92VG3III325",
+        "nombre": "GODINEZ ZAMORANO ABRIL",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "red325"
+    },
+    {
+        "usuario": "EPO92VG3III326",
+        "nombre": "GONZALEZ COLCHADO DANNA PAOLA",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "lion326"
+    },
+    {
+        "usuario": "EPO92VG3III327",
+        "nombre": "GONZALEZ ROMERO BRIAN ALEXANDER",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "dog327"
+    },
+    {
+        "usuario": "EPO92VG3III328",
+        "nombre": "HERNANDEZ JIMENEZ ANTONIO ZACEK",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "cow328"
+    },
+    {
+        "usuario": "EPO92VG3III329",
+        "nombre": "JIMENEZ MENDEZ GEORGINA",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "blue329"
+    },
+    {
+        "usuario": "EPO92VG3III330",
+        "nombre": "JUAREZ HERNANDEZ MARYCARMEN",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "dog330"
+    },
+    {
+        "usuario": "EPO92VG3III331",
+        "nombre": "LEYVA PEREZ AMBAR GETHSEMANI",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "cow331"
+    },
+    {
+        "usuario": "EPO92VG3III332",
+        "nombre": "LOPEZ AVILES JOEL URIEL",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "bird332"
+    },
+    {
+        "usuario": "EPO92VG3III333",
+        "nombre": "MARTINEZ OJEDA RICARDO",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "red333"
+    },
+    {
+        "usuario": "EPO92VG3III334",
+        "nombre": "MOLINA VELAZQUEZ OLIVER ATZIN",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "bear334"
+    },
+    {
+        "usuario": "EPO92VG3III335",
+        "nombre": "MONSURES RAFAEL NANCY",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "ant335"
+    },
+    {
+        "usuario": "EPO92VG3III336",
+        "nombre": "NAVA GARCIA MARCO ANTONIO",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "dog336"
+    },
+    {
+        "usuario": "EPO92VG3III337",
+        "nombre": "OROZCO MEDINA ZURISADAI",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "lion337"
+    },
+    {
+        "usuario": "EPO92VG3III338",
+        "nombre": "ROJAS CRUZ JENNIFER VANIA",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "lion338"
+    },
+    {
+        "usuario": "EPO92VG3III339",
+        "nombre": "RONCES LOPEZ RUTH ZURISADAI",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "bird339"
+    },
+    {
+        "usuario": "EPO92VG3III340",
+        "nombre": "SALAZAR SANTIAGO KATE VANESSA",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "ant340"
+    },
+    {
+        "usuario": "EPO92VG3III341",
+        "nombre": "SAN VICENTE SILVA KARLA JESSICA",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "bear341"
+    },
+    {
+        "usuario": "EPO92VG3III342",
+        "nombre": "SANCHEZ ESPINOZA YAZMIN AMALINALLI",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "bird342"
+    },
+    {
+        "usuario": "EPO92VG3III343",
+        "nombre": "SANCHEZ VALDIVIEZO DANIELA",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "cow343"
+    },
+    {
+        "usuario": "EPO92VG3III344",
+        "nombre": "VALVERDE RODRIGUEZ EFREN JESUS",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "red344"
+    },
+    {
+        "usuario": "EPO92VG3III345",
+        "nombre": "VITAL CALDERON MONSERRAT",
+        "turno": "VESPERTINO",
+        "grupo": "3°III",
+        "clave": "fish345"
+    },
+    {
+        "usuario": "EPO92VG3IV346",
+        "nombre": "ARRIAGA ARAIZA NABETSE ALEJANDRA",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "cow346"
+    },
+    {
+        "usuario": "EPO92VG3IV347",
+        "nombre": "CABRERA HERNANDEZ ANGEL DAVID",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "cow347"
+    },
+    {
+        "usuario": "EPO92VG3IV348",
+        "nombre": "CASTILLO CASTILLO CITLALI",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "bear348"
+    },
+    {
+        "usuario": "EPO92VG3IV349",
+        "nombre": "CASTRO CERON NELLIE MARLEY",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "ant349"
+    },
+    {
+        "usuario": "EPO92VG3IV350",
+        "nombre": "CORONA GARCIA URIEL JOFIEL",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "red350"
+    },
+    {
+        "usuario": "EPO92VG3IV351",
+        "nombre": "CORONA SALINAS MATIAS SEBASTIAN",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "cat351"
+    },
+    {
+        "usuario": "EPO92VG3IV352",
+        "nombre": "CRUZ AGUILAR MANUEL ALEXANDER",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "bear352"
+    },
+    {
+        "usuario": "EPO92VG3IV353",
+        "nombre": "CRUZ FIGUEROA EVELIN XIMENA",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "bird353"
+    },
+    {
+        "usuario": "EPO92VG3IV354",
+        "nombre": "DOMINGUEZ ANAYA GERALDINE",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "ant354"
+    },
+    {
+        "usuario": "EPO92VG3IV355",
+        "nombre": "ESPADIN HERNANDEZ DYLAN EDUARDO",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "cow355"
+    },
+    {
+        "usuario": "EPO92VG3IV356",
+        "nombre": "ESPIRIDION MARTINEZ RODRIGO",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "cow356"
+    },
+    {
+        "usuario": "EPO92VG3IV357",
+        "nombre": "EUSTAQUIO ROMERO MELANY ARELI",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "blue357"
+    },
+    {
+        "usuario": "EPO92VG3IV358",
+        "nombre": "FLORES RODRIGUEZ MICHELL YAZURI",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "lion358"
+    },
+    {
+        "usuario": "EPO92VG3IV359",
+        "nombre": "GALAN MENDOZA JIMENA VALERIA",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "ant359"
+    },
+    {
+        "usuario": "EPO92VG3IV360",
+        "nombre": "GARCIA FELICIANO GELI YOSELIN",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "lion360"
+    },
+    {
+        "usuario": "EPO92VG3IV361",
+        "nombre": "GARCIA NUÑEZ NAOMY GERALDHYNE",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "fish361"
+    },
+    {
+        "usuario": "EPO92VG3IV362",
+        "nombre": "GOMEZ CANO ZURISADAI",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "bear362"
+    },
+    {
+        "usuario": "EPO92VG3IV363",
+        "nombre": "GONZALEZ ROQUE YENI",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "dog363"
+    },
+    {
+        "usuario": "EPO92VG3IV364",
+        "nombre": "GUZMAN COLIN VANESSA AIDEE",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "cat364"
+    },
+    {
+        "usuario": "EPO92VG3IV365",
+        "nombre": "HERNANDEZ LOPEZ BRANDON FERNANDO",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "cat365"
+    },
+    {
+        "usuario": "EPO92VG3IV366",
+        "nombre": "HIGAREDA MORANTE PABLO",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "dog366"
+    },
+    {
+        "usuario": "EPO92VG3IV367",
+        "nombre": "JAUREGUI GONZALEZ VALENTINA",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "bear367"
+    },
+    {
+        "usuario": "EPO92VG3IV368",
+        "nombre": "JULIAN SANABRIA ZOE HARENY",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "cow368"
+    },
+    {
+        "usuario": "EPO92VG3IV369",
+        "nombre": "LEYVA DURAN AXEL DANIEL",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "bear369"
+    },
+    {
+        "usuario": "EPO92VG3IV370",
+        "nombre": "MARTINEZ RIZO EDUARDO",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "dog370"
+    },
+    {
+        "usuario": "EPO92VG3IV371",
+        "nombre": "MATHIAS REYES NEVI DANIELA",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "cow371"
+    },
+    {
+        "usuario": "EPO92VG3IV372",
+        "nombre": "RAMIREZ BRINDIS CAROL ALEJANDRA",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "cow372"
+    },
+    {
+        "usuario": "EPO92VG3IV373",
+        "nombre": "RAMIREZ BRINDIS FATIMA NICOL",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "cat373"
+    },
+    {
+        "usuario": "EPO92VG3IV374",
+        "nombre": "RAZO VASQUEZ KENNY ALEXANDER",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "blue374"
+    },
+    {
+        "usuario": "EPO92VG3IV375",
+        "nombre": "ROCHA VALDEZ MIGUEL",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "cow375"
+    },
+    {
+        "usuario": "EPO92VG3IV376",
+        "nombre": "ROMERO RIVERA FATIMA",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "lion376"
+    },
+    {
+        "usuario": "EPO92VG3IV377",
+        "nombre": "SAN AGUSTIN ISLAS CRISTOPHER",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "lion377"
+    },
+    {
+        "usuario": "EPO92VG3IV378",
+        "nombre": "SILVA RAMIREZ ALYN RUBI",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "lion378"
+    },
+    {
+        "usuario": "EPO92VG3IV379",
+        "nombre": "TOLENTINO GARCIA SARAHI",
+        "turno": "VESPERTINO",
+        "grupo": "3°IV",
+        "clave": "dog379"
+    }
+]
