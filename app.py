@@ -12,8 +12,12 @@ firebase_key = os.getenv("FIREBASE_KEY")
 
 if firebase_key:
     try:
-        firebase_key_dict = json.loads(firebase_key.replace("\\n", "\n"))  # Reemplaza \\n por \n
-        cred = credentials.Certificate(firebase_key_dict)  # Convertir string JSON a diccionario
+        # Convertir string JSON a diccionario y corregir saltos de línea
+        firebase_key_dict = json.loads(firebase_key)
+        firebase_key_dict["private_key"] = firebase_key_dict["private_key"].replace("\\n", "\n")
+
+        # Inicializar Firebase
+        cred = credentials.Certificate(firebase_key_dict)
         firebase_admin.initialize_app(cred)
         db = firestore.client()
     except json.JSONDecodeError:
