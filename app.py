@@ -11,9 +11,13 @@ app = Flask(__name__)
 firebase_key = os.getenv("FIREBASE_KEY")
 
 if firebase_key:
-    cred = credentials.Certificate(json.loads(firebase_key))  # Convertir string JSON a diccionario
-    firebase_admin.initialize_app(cred)
-    db = firestore.client()
+    try:
+        firebase_key_dict = json.loads(firebase_key.replace("\\n", "\n"))  # Reemplaza \\n por \n
+        cred = credentials.Certificate(firebase_key_dict)  # Convertir string JSON a diccionario
+        firebase_admin.initialize_app(cred)
+        db = firestore.client()
+    except json.JSONDecodeError:
+        raise ValueError("Error al decodificar FIREBASE_KEY. Verifica el formato en Render.")
 else:
     raise ValueError("FIREBASE_KEY no está configurada en las variables de entorno.")
 
