@@ -57,7 +57,7 @@ def cargar_alumnos():
             nombre = alumno["nombre"]
             turno = alumno["turno"]
             grupo = alumno["grupo"]
-            clave = alumno["clave"]  # 🔹 Se guarda la clave
+            clave = alumno["clave"]
             saldo_inicial = 100  # Definir saldo inicial
 
             user_ref = db.collection('usuarios').document(usuario)
@@ -65,7 +65,7 @@ def cargar_alumnos():
                 'nombre': nombre,
                 'turno': turno,
                 'grupo': grupo,
-                'clave': clave,  # 🔹 Se guarda la clave en Firebase
+                'clave': clave,
                 'saldo': saldo_inicial,
                 'transacciones': []
             })
@@ -81,40 +81,18 @@ def cargar_alumnos():
             "estado": "error"
         }), 500
 
-# 🔥 Ruta mejorada para validar saldo con usuario y clave
-@app.route('/saldo', methods=['POST'])
-def consultar_saldo():
-    try:
-        data = request.json
-        usuario = data.get("usuario")
-        clave_ingresada = data.get("clave")
+# Ruta para consultar el saldo de un usuario
+@app.route('/saldo/<usuario>', methods=['GET'])
+def consultar_saldo(usuario):
+    user_ref = db.collection('usuarios').document(usuario)
+    user_doc = user_ref.get()
 
-        if not usuario or not clave_ingresada:
-            return jsonify({'error': 'Usuario y clave son obligatorios'}), 400
+    if not user_doc.exists:
+        return jsonify({'error': 'Usuario no encontrado'}), 404
 
-        user_ref = db.collection('usuarios').document(usuario)
-        user_doc = user_ref.get()
-
-        if not user_doc.exists:
-            return jsonify({'error': 'Usuario no encontrado'}), 404
-
-        user_data = user_doc.to_dict()
-        
-        # 🔹 Validar clave
-        if user_data["clave"] != clave_ingresada:
-            return jsonify({'error': 'Clave incorrecta'}), 403
-
-        return jsonify({
-            'nombre': user_data["nombre"],
-            'saldo': user_data["saldo"],
-            'turno': user_data["turno"],
-            'grupo': user_data["grupo"]
-        })
-    except Exception as e:
-        return jsonify({'error': str(e)}), 500
+    return jsonify(user_doc.to_dict())
 
 # Asegurar que se ejecuta en el puerto correcto en Render
 if __name__ == '__main__':
-    port = int(os.environ.get("PORT", 10000))  # 🔹 Render usa el puerto 10000
+    port = int(os.environ.get("PORT", 8080))  # 🔹 Cambia a 8080
     app.run(host='0.0.0.0', port=port)
-
