@@ -94,5 +94,5 @@ def consultar_saldo(usuario):
 
 # Asegurar que se ejecuta en el puerto correcto en Render
 if __name__ == '__main__':
-    port = int(os.environ.get("PORT", 10000))  # Render usa el puerto 10000
+    port = int(os.environ.get("PORT", 8080))  # 🔹 Cambia a 8080
     app.run(host='0.0.0.0', port=port)
